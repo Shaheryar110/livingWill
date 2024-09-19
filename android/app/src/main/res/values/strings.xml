@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mylivingwill</string>
+    <string name="facebook_app_id">723506982824922</string>
+<string name="fb_login_protocol_scheme">fb723506982824922</string>
+<string name="facebook_client_token">6344dd781a7aadfe1020e4d25b8cc90e</string>
+</resources>

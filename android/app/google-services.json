@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "86900280068",
+    "project_id": "livingwill-b6abe",
+    "storage_bucket": "livingwill-b6abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86900280068:android:17ac3a91f57e8214971e51",
+        "android_client_info": {
+          "package_name": "com.mylivingwill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86900280068-1cf3cc7mrq2u6tgr59anogtcscucl4ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mylivingwill",
+            "certificate_hash": "b9f8292edffd92fa557a7d3db61bb456b027c464"
+          }
+        },
+        {
+          "client_id": "86900280068-20j7bppq161l7nvt7unbkrhum0l3l11k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mylivingwill",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "86900280068-oi5gnq118nvpt7jabcinqhnhk2am6s17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mylivingwill",
+            "certificate_hash": "48656145cf2f9b66c91f9630be81cb606326d8ed"
+          }
+        },
+        {
+          "client_id": "86900280068-vkfqi65go9vk60ctjthsj9crd1c40ggb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuX_NCGsCViORTrByMUZdadFn2hu4T2n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86900280068-vkfqi65go9vk60ctjthsj9crd1c40ggb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86900280068-98qgfajj49dreb1heht1ao492trgohjc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.livingwill",
+                "app_store_id": "6473294805"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6520773465788662~5333735429"
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+export {default as Home} from './Home/index';
+export {default as Login} from './Auth/Login';
+export {default as Map} from './Map';
+export {default as MyWill} from './MyWill';
+export {default as Contacts} from './Contacts';
+export {default as Consulting} from './Consulting';
+export {default as Settings} from './Settings';
+export {default as AddContact} from './AddContacts';
+export {default as AddMyWill} from './AddMyWill';
+export {default as Privacy} from './Privacy';
+export {default as Accounts} from './Accounts';
+export {default as FeedBack} from './FeedBack';
+export {default as TermsAndConditions} from './TermsAndConditions';
+export {default as SelectMyWill} from './SelectMyWill';
+export {default as SingleContact} from './SingleContact';

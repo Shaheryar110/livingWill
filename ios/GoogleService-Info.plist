@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>86900280068-98qgfajj49dreb1heht1ao492trgohjc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.86900280068-98qgfajj49dreb1heht1ao492trgohjc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>86900280068-1cf3cc7mrq2u6tgr59anogtcscucl4ch.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB6SSGuvHoMuW3SrXv5Dr4yar-m8bUejWM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>86900280068</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.livingwill</string>
+	<key>PROJECT_ID</key>
+	<string>livingwill-b6abe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>livingwill-b6abe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:86900280068:ios:bc8ea35f58f68207971e51</string>
+</dict>
+</plist>
